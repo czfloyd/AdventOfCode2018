@@ -33,7 +33,6 @@ func main()  {
 			}
 		}
 	}
-	fmt.Printf("%s",out)
 }
 
 func offByOne(w1 string, w2 string) bool {
